@@ -1,0 +1,24 @@
+*{
+    font-family:sans-serif ;
+}
+
+
+
+body{
+  background-color: rgb(60, 60, 60);
+}
+div{
+  background-color: rgb(60, 60, 60);
+
+}
+a:hover{
+  text-decoration: underline !important;
+}
+.val{
+  font-size: 12px ;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+
+}
+
